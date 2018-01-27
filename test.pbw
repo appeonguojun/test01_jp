@@ -1,0 +1,13 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "genapp.pbt";
+ 1 "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\Treeview DataWindow and DatePicker\\pbdemos.pbt";
+ 2 "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\Benchmark\\Benchmark.pbt";
+ 3 "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\DWGradientTransparency\\dw_gradient_transparency.pbt";
+ 4 "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\DWRichTextEditStyle\\rtedemo.pbt";
+ 5 "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\Example App\\PB Examples.pbt";
+ 6 "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\MDIDockingDemo\\dockwindowdemo.pbt";
+ 7 "\\\\192.0.1.26\\Support\\rumtime\\code\\runtime.pbt";
+@end;
+DefaultTarget "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\Example App\\PB Examples.pbt";
+DefaultRemoteTarget "..\\..\\Public\\Documents\\Appeon\\PowerBuilder 17.0\\Code Examples\\Example App\\PB Examples.pbt";
